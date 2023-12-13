@@ -1,7 +1,7 @@
 # APLIKASI ANDROID
-###### Aplikasi android sederhana untuk menampilkan inputan data kedalam listview
+###### Aplikasi android sederhana untuk menampilkan inputan data kedalam listview oleh Giananda
 
 ### Dibuat Oleh :
-##### Mochamad Idris
+##### Giananda Saktika Nugraha
 ### NIM
-##### G.111.21.1989
+##### G.141.22.0003
